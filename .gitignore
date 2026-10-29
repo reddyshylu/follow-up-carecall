@@ -1,0 +1,9 @@
+.venv/
+.env
+__pycache__/
+data/processed/
+data/model_cache/
+_old_version/
+~$*
+*.pyc
+data/raw/synthea_csv_nov2021/csv/~$*
